@@ -1,0 +1,26 @@
+# Mi Experiencia con Git y GitHub
+
+## Lo que He Aprendido 📚
+
+Durante este mini tutorial, he logrado entender varios aspectos fundamentales sobre Git y GitHub. Aquí hay un resumen de lo que aprendí:
+
+### 1. **Comandos Básicos de Git**
+   - `git init`: Para inicializar un repositorio local.
+   - `git clone`: Para clonar un repositorio existente desde GitHub.
+   - `git add .`: Para agregar archivos al área de preparación (staging area).
+   - `git commit -m "mensaje"`: Para guardar los cambios con un mensaje descriptivo.
+   - `git push origin main`: Para enviar los cambios al repositorio remoto en la rama `main`.
+
+### 2. **Conceptos Clave**
+   - **Repositorio Local vs. Repositorio Remoto**: Un repositorio local es el que resides en mi máquina, mientras que el repositorio remoto es el que está alojado en GitHub.
+   - **Staging Area**: El área de preparación donde se organizan los cambios antes de confirmarlos con `commit`.
+   - **Branching**: La creación de ramas para trabajar en diferentes versiones del proyecto sin afectar la rama principal.
+
+### 3. **Uso de Git Bash**
+   - Aprendí a navegar por los directorios usando `cd`.
+   - Utilicé `pwd` para verificar en qué directorio estoy trabajando.
+   - Me familiaricé con el uso de comandos básicos en la terminal.
+
+## Lo que Aún Me Confunde 🤔
+
+- **Uso Avanzado de Branches**: Aunque entendí el concepto de branches, me siento inseguro cuando se trata de gestionar múltiples branches en un proyecto grande. ¿Cómo puedo mantenerme organizado y evitar confusiones?
